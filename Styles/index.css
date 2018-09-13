@@ -70,22 +70,22 @@ a
 	
 }
 
-footer {
+.footer1 {
   background: linear-gradient(to left, #3a6186 , #89253e);
   margin-top: -4%;
   text-align: center;
 }
-footer a {
+.footer1 a {
   color: white;
   font-size: 17px;
   padding: 20px;
   padding-bottom: 1.4px;
   display: inline;
 }
-footer a:first-child {
+.footer1 a:first-child {
   
 }
-footer a:hover {
+.footer1 a:hover {
   color: black;
 }
 
